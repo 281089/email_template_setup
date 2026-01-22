@@ -4,7 +4,7 @@ from email.message import EmailMessage
 
 # Gmail credentials
 EMAIL_ADDRESS = "dgulladurthi@gmail.com"
-EMAIL_PASSWORD = "jpjsjasdzkxgqjqc"
+EMAIL_PASSWORD = "jpjsjasdzk"
 ## https://myaccount.google.com/apppasswords?pli=1&rapt=AEjHL4MvdvXHXmKNBGmutNdE6yKzersq7z0e17_sBzfBf_aL2fHX-2o8z4HUO7Re2-qDXCKR6A-VkMv-sedP_o7r7XsZDEhG7gmWQVovLvVc_5sroJ0w440
 
 # Read CSV
